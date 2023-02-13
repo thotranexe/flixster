@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/WpAwfjH.gif' title='Video Walkthrough' width='40' height='40' alt='Video Walkthrough' />
+<img src='https://github.com/thotranexe/flixster/blob/main/Walkthrough.gif' title='Video Walkthrough' width='40' height='40' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with kotlin screen recorder and webm to gif converter
@@ -42,7 +42,7 @@ GIF created with kotlin screen recorder and webm to gif converter
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+adapting a json array rather than an object, fixing the layout. I did reuse the starter code from lab three to base most of it off of, but that seemed to create more issues than anything else.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
