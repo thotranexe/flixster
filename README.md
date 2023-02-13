@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/JvYNIE1' title='Video Walkthrough' width='30%' hieght='30%' alt='Video Walkthrough' />
+![Imgur Image](https://imgur.com/a/he6m8HY)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with kotlin screen recorder and webm to gif converter
