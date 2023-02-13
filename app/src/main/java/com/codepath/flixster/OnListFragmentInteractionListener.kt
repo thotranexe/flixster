@@ -1,4 +1,4 @@
-package com.codepath.bestsellerlistapp
+package com.codepath.flixster
 
 /**
  * This interface is used by the [BestSellerBooksRecyclerViewAdapter] to ensure
@@ -7,5 +7,5 @@ package com.codepath.bestsellerlistapp
  * In this app, it's implemented by [BestSellerBooksFragment]
  */
 interface OnListFragmentInteractionListener {
-    fun onItemClick(item: BestSellerBook)
+    fun onItemClick(item: Movie)
 }
